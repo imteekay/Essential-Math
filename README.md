@@ -1,3 +1,3 @@
-# Essential-Math
+# Mathematics for Machine Learning
 
-Lab files for Essential Math course
+Lab files for Mathematics for Machine Learning course
